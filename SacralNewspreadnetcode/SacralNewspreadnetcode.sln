@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SacralNewspreadnetcode.DTO", "SacralNewspreadnetcode.DTO\SacralNewspreadnetcode.DTO.csproj", "{9DCD1EAB-E2AA-48AC-9A13-27BABDB1AD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SacralNewspreadnetcode.DataAccess", "SacralNewspreadnetcode.DataAccess\SacralNewspreadnetcode.DataAccess.csproj", "{7EE815D3-6C12-415E-A72E-02BFDA91BC57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SacralNewspreadnetcode.Service", "SacralNewspreadnetcode.Service\SacralNewspreadnetcode.Service.csproj", "{4A20A4DE-BE91-4DBA-ACA9-8B5394F6E22D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SacralNewspreadnetcode.API", "SacralNewspreadnetcode.API\SacralNewspreadnetcode.API.csproj", "{8AF8A0E5-598B-4A1B-8D6C-CE6FEC5568C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DCD1EAB-E2AA-48AC-9A13-27BABDB1AD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCD1EAB-E2AA-48AC-9A13-27BABDB1AD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCD1EAB-E2AA-48AC-9A13-27BABDB1AD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCD1EAB-E2AA-48AC-9A13-27BABDB1AD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE815D3-6C12-415E-A72E-02BFDA91BC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE815D3-6C12-415E-A72E-02BFDA91BC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE815D3-6C12-415E-A72E-02BFDA91BC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE815D3-6C12-415E-A72E-02BFDA91BC57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A20A4DE-BE91-4DBA-ACA9-8B5394F6E22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A20A4DE-BE91-4DBA-ACA9-8B5394F6E22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A20A4DE-BE91-4DBA-ACA9-8B5394F6E22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A20A4DE-BE91-4DBA-ACA9-8B5394F6E22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF8A0E5-598B-4A1B-8D6C-CE6FEC5568C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF8A0E5-598B-4A1B-8D6C-CE6FEC5568C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF8A0E5-598B-4A1B-8D6C-CE6FEC5568C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF8A0E5-598B-4A1B-8D6C-CE6FEC5568C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
